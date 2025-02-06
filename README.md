@@ -9,7 +9,6 @@ Welcome to the **Real Estate Landing Page Project** repository! This project is 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
